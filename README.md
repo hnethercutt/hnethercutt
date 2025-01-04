@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 ## Hello World! 😸 I'm Hannah
-I am currently a Junior at ECU working on a BS in Computer Science I am also in an accelerated masters program, working toward a MS in Software Engineering. 
+I am currently a Junior at ECU working on a BS in Computer Science. I am also in an accelerated masters program, working toward a MS in Software Engineering. 
 I am very passionate about coding and my goal is to be a Full Stack Developer. I love to learn new things and want to get experience with as many technologies as I can.
 
 
