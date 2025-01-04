@@ -1,7 +1,9 @@
 ![Header](./github-header-image.png)
 
 ## Hello World! 😸 I'm Hannah
-I am very passionate about coding and my goal is to be a Full Stack Developer. I love to learn new things and want to get experience with as many technologies as I can. 
+I am currently a Junior at ECU to get a BS in Computer Science, but I am also in an accelerated masters program, working toward a MS in Software Engineering. 
+I am very passionate about coding and my goal is to be a Full Stack Developer. I love to learn new things and want to get experience with as many technologies as I can.
+
 
 **I currently have experience with:** <br /> <br />
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
