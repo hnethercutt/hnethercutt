@@ -1,4 +1,4 @@
-![github-header-image(1)](https://github.com/user-attachments/assets/8c60570b-344d-4cec-abd6-0e4af946eedd)
+![github-header-image(2)](https://github.com/user-attachments/assets/9a40be58-5b9b-4a47-bcbd-d492d510ab1e)
 
 ## Hello World! 😸 I'm Hannah
 I am currently a Junior at ECU working on a BS in Computer Science. I am also in an accelerated masters program, working toward a MS in Software Engineering. 
