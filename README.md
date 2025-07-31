@@ -1,8 +1,8 @@
 ![github-header-image(2)](https://github.com/user-attachments/assets/9a40be58-5b9b-4a47-bcbd-d492d510ab1e)
 
 ## Hello World! 😸 I'm Hannah
-I am currently a Junior at ECU working on a BS in Computer Science. I am also in an accelerated masters program, working toward a MS in Software Engineering. 
-I am very passionate about coding and my goal is to be a Full Stack Developer. I love to learn new things and want to get experience with as many technologies as I can.
+I am currently a Senior at East Carolina University working on a BS in Computer Science. I am also in an accelerated masters program, working toward a MS in Software Engineering. 
+I am very passionate about coding and my long-term career goal is to be a Full Stack Developer. I love to learn new things and want to get experience with as many technologies as I can.
 
 
 **I currently have experience with:** <br /> <br />
@@ -14,9 +14,11 @@ I am very passionate about coding and my goal is to be a Full Stack Developer. I
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
